@@ -114,7 +114,7 @@ def build_matches(profile, schemes):
     return candidates
 
 
-def call_gemini(profile, candidates, max_retries=3):
+def call_gemini(profile, candidates, max_retries=2):
     """
     Ask Gemini to rank the eligible candidates
     and explain why each one matches, with built-in retry logic for 503 errors.
@@ -127,7 +127,7 @@ def call_gemini(profile, candidates, max_retries=3):
             "GEMINI_API_KEY is missing. Add it to your .env file."
         )
 
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=api_key,http_options=types.HttpOptions(timeout=30000),)
 
     prompt = f"""
 You are ScholarMatch AI, an educational opportunity discovery assistant.
