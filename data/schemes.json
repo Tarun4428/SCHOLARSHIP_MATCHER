@@ -1,0 +1,99 @@
+[
+  {
+    "id": "reliance_ug_2026",
+    "name": "Reliance Foundation Undergraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "eligibility": "For the 2026-27 programme: resident Indian citizens who passed Class 12 with at least 60%, are in first year of a regular full-time undergraduate degree, and have household income below ₹15 lakh. A mandatory aptitude test is part of the process.",
+    "benefit": "Up to ₹2 lakh over the duration of the degree programme.",
+    "deadline": "2026-27 applications are closed; verify the official page for future cycles.",
+    "location_relevance": "India-wide",
+    "source_url": "https://scholarships.reliancefoundation.org/UG_Scholarship.aspx",
+    "rules": {
+      "full_time_only": true,
+      "years": [
+        "1st Year"
+      ],
+      "max_income_lakh": 15,
+      "min_marks_12": 60
+    }
+  },
+  {
+    "id": "aicte_pragati_degree",
+    "name": "AICTE Pragati Scholarship Scheme for Girl Students (Technical Degree)",
+    "provider": "AICTE / National Scholarship Portal",
+    "eligibility": "A technical-degree scholarship for eligible girl students. The 2026-27 National Scholarship Portal listing shows student applications open until 31 October 2026. Exact institutional, income, and other conditions must be checked in the official guidelines.",
+    "benefit": "See the official scheme guidelines for the current benefit.",
+    "deadline": "31 October 2026 shown on NSP for AY 2026-27.",
+    "location_relevance": "India-wide",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "rules": {
+      "full_time_only": true,
+      "courses": [
+        "B.E.",
+        "B.Tech"
+      ],
+      "gender_required": "Female"
+    }
+  },
+  {
+    "id": "aicte_saksham_degree",
+    "name": "AICTE Saksham Scholarship Scheme for Specially Abled Students (Technical Degree)",
+    "provider": "AICTE / National Scholarship Portal",
+    "eligibility": "A technical-degree welfare scholarship for eligible specially abled students. The 2026-27 NSP listing shows student applications open until 31 October 2026. Exact disability, institutional, income, and other conditions must be verified against the official guidelines.",
+    "benefit": "See the official scheme guidelines for the current benefit.",
+    "deadline": "31 October 2026 shown on NSP for AY 2026-27.",
+    "location_relevance": "India-wide",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "rules": {
+      "full_time_only": true,
+      "courses": [
+        "B.E.",
+        "B.Tech"
+      ],
+      "disability_required": true
+    }
+  },
+  {
+    "id": "aicte_swanath_degree",
+    "name": "AICTE Swanath Scholarship Scheme (Technical Degree)",
+    "provider": "AICTE / National Scholarship Portal",
+    "eligibility": "A welfare-based technical-degree scholarship listed on the 2026-27 National Scholarship Portal. Student applications are shown as open until 31 October 2026. Exact Swanath criteria must be verified in the official guidelines.",
+    "benefit": "See the official scheme guidelines for the current benefit.",
+    "deadline": "31 October 2026 shown on NSP for AY 2026-27.",
+    "location_relevance": "India-wide",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "rules": {
+      "full_time_only": true,
+      "courses": [
+        "B.E.",
+        "B.Tech"
+      ]
+    }
+  },
+  {
+    "id": "pm_usp_csss",
+    "name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+    "provider": "Department of Higher Education / National Scholarship Portal",
+    "eligibility": "A merit-based scholarship listed on the 2026-27 National Scholarship Portal. The current NSP page specifically shows renewal applications for AY 2026-27 open until 31 October 2026. Fresh/renewal status and detailed eligibility must be checked in the official scheme guidelines.",
+    "benefit": "See the official scheme guidelines for the current benefit.",
+    "deadline": "31 October 2026 shown for renewal on NSP.",
+    "location_relevance": "India-wide",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "rules": {}
+  },
+  {
+    "id": "top_class_sc",
+    "name": "Central Sector Scholarship of Top Class Education for SC Students",
+    "provider": "Department of Social Justice & Empowerment / National Scholarship Portal",
+    "eligibility": "A merit-based top-class education scholarship for eligible SC students, listed on the 2026-27 National Scholarship Portal. Detailed income, institution, and course conditions must be checked in the official scheme guidelines.",
+    "benefit": "See the official scheme guidelines for the current benefit.",
+    "deadline": "31 October 2026 shown on NSP.",
+    "location_relevance": "India-wide",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "rules": {
+      "categories": [
+        "SC"
+      ]
+    }
+  }
+]
